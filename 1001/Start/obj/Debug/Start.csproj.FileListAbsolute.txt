@@ -1,6 +1,0 @@
-E:\Study\URI\1001\Start\bin\Debug\Start.exe.config
-E:\Study\URI\1001\Start\bin\Debug\Start.exe
-E:\Study\URI\1001\Start\bin\Debug\Start.pdb
-E:\Study\URI\1001\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
-E:\Study\URI\1001\Start\obj\Debug\Start.exe
-E:\Study\URI\1001\Start\obj\Debug\Start.pdb
